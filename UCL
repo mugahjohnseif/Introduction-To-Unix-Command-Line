@@ -1,0 +1,26 @@
+#INTODUCTION TO UCL
+
+A shell is computer programme that presents a command line interface which allows you to control your computer using commands entered with a keyboard instead of controlling GUIs with mouse/board/touchscreen
+
+##Directories
+
+pwd for PRINTING the current directory
+
+ls to view content of current directory
+
+ls/ to view of other directories (root)
+
+ls/home to view content of /home
+
+cd/ to change directory
+
+cd .. to move back to previous directories
+
+mkdir to create a directory
+
+touch file to ceate a file
+
+rm -r folder to remove a directory
+
+rm file to remove a file
+
